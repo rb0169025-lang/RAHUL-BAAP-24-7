@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Sigmasmp-ngar.aternos.me",
+    "ip": "Sigmasmp-ngar.aternos.me:26090",
     "port": 26090,
     "version": "1.20.1",
     "try-creative": false
